@@ -1,15 +1,17 @@
+# This project has been abandoned.
+
+Mojang has time and time again proven to me that they are completely and utterly unfit to be responsible for the future of this game. Every single update they manage to f\*\*k over yet another part of the community for... no apparent reason? I cannot and will not be involved in any projects related to this rapidly declining clusterf\*\*k of a game anymore.
+
+This project could *maybe* return for some actually good version of the game like 1.16.5 some day. *Maybe.* Don't ask me about it.
+
 # Interstellar [![Build Interstellar](https://github.com/notsatvrn/Interstellar/actions/workflows/build.yml/badge.svg)](https://github.com/notsatvrn/Interstellar/actions/workflows/build.yml)
 
 The Minecraft server from another planet.
 A vigorously optimized [Purpur](https://purpurmc.org) fork.
 
-## ⚠️ Interstellar is NOT production ready. ⚠️
-
-If you use Interstellar, *expect to encounter issues*, and please report them.
-
 ## Credits
 
-Interstellar would not be possible without the help of following projects.
+Interstellar would not have been possible without the help of following projects.
 
 ### Patches
 
